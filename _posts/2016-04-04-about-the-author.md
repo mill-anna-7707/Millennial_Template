@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "website page 1"
+author: "Anna Miller"
 categories: facts
 tags: [sample]
 image: cuba-2.jpg
