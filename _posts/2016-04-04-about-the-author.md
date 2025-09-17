@@ -3,7 +3,6 @@ layout: post
 title: "website page 1"
 author: "Anna Miller"
 categories: facts
-tags: [sample]
 image: N2_Mrum7.png
 ---
 
