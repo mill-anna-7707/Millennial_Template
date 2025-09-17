@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Interesting Facts
-category: facts
+title: Research Projects
+category: Research Projects
 permalink: /facts
 ---
